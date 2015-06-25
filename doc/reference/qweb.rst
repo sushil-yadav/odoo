@@ -515,7 +515,6 @@ The javascript QWeb implementation provides a few debugging hooks:
 
 Helpers
 -------
-
 .. js:attribute:: openerp.qweb
 
     An instance of :js:class:`QWeb2.Engine` with all module-defined template
